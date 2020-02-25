@@ -9,5 +9,6 @@ Discorde aide https://discord.gg/CumcyJC
 et fait hébergeur 2024 ouverture du hebergeur rajoute catégotie fivem 
 
 
+suprimer dans esx_carwash le resource.lua  
 
 .../
